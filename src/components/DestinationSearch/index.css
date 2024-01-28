@@ -1,0 +1,36 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.heading {
+  font-family: Roboto;
+}
+.search-icon {
+  height: 30px;
+}
+
+.input {
+  border: 0px solid #ffffff;
+  background-color: #f1f5f9;
+}
+
+.ul-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
